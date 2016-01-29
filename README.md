@@ -1,2 +1,2 @@
 # road-to-epilogue
-Take a look at these blogs post at <http://epilogue.bitballoon.com> 
+Take a look at the blogs post at <http://epilogue.bitballoon.com> 
